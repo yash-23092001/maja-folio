@@ -65,7 +65,7 @@ ul {
 
 
 .sections-wrapper ul{
-    padding: 1rem;
+    padding: .5rem;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
